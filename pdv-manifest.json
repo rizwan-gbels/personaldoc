@@ -1,0 +1,12 @@
+{
+  "name": "Personal Docs Vault",
+  "short_name": "Docs Vault",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1c4028",
+  "icons": [
+    { "src": "pdv-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "pdv-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
